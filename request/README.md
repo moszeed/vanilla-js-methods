@@ -1,4 +1,3 @@
-vanilla-js-methods
+request.js
 ==================
-
-Vanilla JS Methods
+request function in vanilla js
